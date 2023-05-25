@@ -3,7 +3,7 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 int trig = 13;
-int echo = 8;
+int echo = 2;
 
 void setup()
 {
